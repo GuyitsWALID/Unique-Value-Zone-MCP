@@ -1,0 +1,7 @@
+﻿mcp[cli]>=1.2.0
+httpx
+google-generativeai
+beautifulsoup4
+PyPDF2
+python-docx
+markdown
